@@ -1,7 +1,7 @@
 Package: ergm.sign
 Type: Package
 Title: Exponential-Family Models for Signed Networks
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Marc", "Schalberger", email = "m.schalberger@fu-berlin.de", role = "cre"),
     person("Cornelius", "Fritz", email = "FRITZC@tcd.ie", role = "aut"),
@@ -21,10 +21,10 @@ VignetteBuilder: knitr
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
 NeedsCompilation: yes
-Packaged: 2025-11-18 15:09:06 UTC; mschalberger
+Packaged: 2025-12-11 12:11:10 UTC; mschalberger
 Author: Marc Schalberger [cre],
   Cornelius Fritz [aut],
   Pavel Krivitsky [ctb]
 Maintainer: Marc Schalberger <m.schalberger@fu-berlin.de>
 Repository: CRAN
-Date/Publication: 2025-11-21 15:20:02 UTC
+Date/Publication: 2025-12-11 16:30:02 UTC
